@@ -52,7 +52,7 @@ CC Gateway is a reverse proxy that sits between Claude Code and the Anthropic AP
 ### 1. Install and configure
 
 ```bash
-git clone https://github.com/whiletrue0x/cc-gateway.git
+git clone https://github.com/motiful/cc-gateway.git
 cd cc-gateway
 npm install
 
@@ -206,9 +206,9 @@ This project builds on:
 </div>
 
 <!-- Badge references -->
-[license-shield]: https://img.shields.io/github/license/whiletrue0x/cc-gateway
-[license-url]: https://github.com/whiletrue0x/cc-gateway/blob/main/LICENSE
+[license-shield]: https://img.shields.io/github/license/motiful/cc-gateway
+[license-url]: https://github.com/motiful/cc-gateway/blob/main/LICENSE
 [version-shield]: https://img.shields.io/badge/version-0.1.0--alpha-blue
-[version-url]: https://github.com/whiletrue0x/cc-gateway/releases
+[version-url]: https://github.com/motiful/cc-gateway/releases
 [tests-shield]: https://img.shields.io/badge/tests-13%20passed-brightgreen
-[tests-url]: https://github.com/whiletrue0x/cc-gateway/blob/main/tests/rewriter.test.ts
+[tests-url]: https://github.com/motiful/cc-gateway/blob/main/tests/rewriter.test.ts
